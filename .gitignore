@@ -1,0 +1,54 @@
+# Unity generated folders (matches at any depth)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/[Uu]ser[Ll]og/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+Recordings/
+
+# Unity cache files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Crash reports
+sysinfo.txt
+*.stackdump
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+
+# External codecs
+Sysroot/
+sndfile/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vs/
+.vscode/
+
+# opencode/agent artifacts
+.atl/
+
+# Project-specific
+.projectsettings
